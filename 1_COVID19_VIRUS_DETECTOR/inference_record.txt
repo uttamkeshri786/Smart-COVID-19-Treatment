@@ -1,0 +1,234 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...4:56:40
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0035-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.020994842. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...4:56:53
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0171-0001.jpeg
+
+RESULT : 
+Pneumonia detected
+Raw Neural Network Output : 0.7542572. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...4:57:24
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/ryct.2020200034.fig2.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.4905918. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...4:57:40
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/SARS-10.1148rg.242035193-g04mr34g0-Fig8a-day0.jpeg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9995861. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:42:36
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0035-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.020994842. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:42:59
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0171-0001.jpeg
+
+RESULT : 
+Pneumonia detected
+Raw Neural Network Output : 0.7542572. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:53:33
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0035-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.020994842. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:53:50
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0171-0001.jpeg
+
+RESULT : 
+Pneumonia detected
+Raw Neural Network Output : 0.7542572. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:54:24
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/ryct.2020200034.fig2.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.11148301. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:54:36
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/SARS-10.1148rg.242035193-g04mr34g0-Fig8a-day0.jpeg
+
+RESULT : 
+Pneumonia detected
+Raw Neural Network Output : 0.961438. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:54:58
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/ryct.2020200034.fig2.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.4905918. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...5:55:6
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/SARS-10.1148rg.242035193-g04mr34g0-Fig8a-day0.jpeg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9995861. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...6:6:39
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0035-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.020994842. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...6:7:8
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/NORMAL/NORMAL2-IM-0171-0001.jpeg
+
+RESULT : 
+Pneumonia detected
+Raw Neural Network Output : 0.7542572. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...6:7:37
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/ryct.2020200034.fig2.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.4905918. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 10 31, 2020...6:7:51
+
+IMAGE : C:/Users/ACER/Desktop/COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/SARS-10.1148rg.242035193-g04mr34g0-Fig8a-day0.jpeg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9995861. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 12 27, 2020...17:33:7
+
+IMAGE : D:/V.I.T/4th_year/Fall Sem 20-21/C2 - CSE3999 - TARP/Project/1_COVID19_VIRUS_DETECTOR/xray_dataset_covid19/test/PNEUMONIA/SARS-10.1148rg.242035193-g04mr34g0-Fig8c-day10.jpeg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99999976. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 12 27, 2020...17:33:42
+
+IMAGE : D:/V.I.T/4th_year/Fall Sem 20-21/C2 - CSE3999 - TARP/Project/1_COVID19_VIRUS_DETECTOR/xray_dataset/test/NORMAL/IM-0001-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.018167168. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
