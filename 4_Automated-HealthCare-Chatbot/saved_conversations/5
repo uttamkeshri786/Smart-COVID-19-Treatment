@@ -1,0 +1,11 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hi
+bot : - Hello. How are you feeling today?
+user : hello
+bot : - Hi. How are you feeling today?
+user : hey
+bot : - Hi. How are you feeling today?
+user : good
+bot : - I'm doing well. How are you feeling today?
+user : nice
+bot : - Thank you. How can i assist you? How are you feeling today?
