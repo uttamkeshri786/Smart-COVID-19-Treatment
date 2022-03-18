@@ -7,6 +7,8 @@
 ### 4. Automated HealthCare Chatbot and 
 ### 5. Web – Application based Smart Covid Hospital website.
 
+### Proposed Model - Flow diagram
+![Alt Text](https://github.com/uttamkeshri786/Smart-COVID-19-Treatment/blob/main/1_COVID19_VIRUS_DETECTOR/Proposed%20Model/Flowchart%20Diagram.jpeg)
 
 Uttam Kumar Keshri, software engineer/creator.
 
