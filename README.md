@@ -7,6 +7,12 @@
 ### 4. Automated HealthCare Chatbot and 
 ### 5. Web – Application based Smart Covid Hospital website.
 
+Heirarchical Task Analysis Diagram
+![Alt Text](https://github.com/uttamkeshri786/Smart-COVID-19-Treatment/blob/main/Hierarchical%20Task%20Analysis%20-%20Diagram.jpeg)
+
+Website : Use case diagram
+![Alt Text](https://github.com/uttamkeshri786/Smart-COVID-19-Treatment/blob/main/Use%20Case%20Diagram.jpg)
+
 Proposed Model - Flow diagram
 ![Alt Text](https://github.com/uttamkeshri786/Smart-COVID-19-Treatment/blob/main/1_COVID19_VIRUS_DETECTOR/Proposed%20Model/Flowchart%20Diagram.jpeg)
 
